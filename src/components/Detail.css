@@ -23,6 +23,7 @@
 .dtContainer .dtData .dtSummary {
   font-size: 20px;
   margin: 30px 150px;
+  text-align: center;
 }
 
 @media screen and (max-width: 768px) {
@@ -54,6 +55,7 @@
     justify-content: center;
     align-items: center;
     margin-top: 100px;
+    text-align: center;
   }
 
   .dtContainer .dtData ul {

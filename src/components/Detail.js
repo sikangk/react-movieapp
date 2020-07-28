@@ -34,8 +34,9 @@ class Detail extends React.Component {
                 );
               })}
             </ul>
-
-            <p className="dtSummary">{location.state.summary}</p>
+            <div className="dtSummary">
+              <p>{location.state.summary}</p>
+            </div>
           </div>
         </div>
       );
