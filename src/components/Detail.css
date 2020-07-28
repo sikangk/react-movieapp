@@ -11,6 +11,10 @@
   align-items: center;
 }
 
+.dtContainer .dtData .dtTitle {
+  text-align: center;
+}
+
 .dtContainer .dtData ul {
   width: 50%;
   display: flex;
@@ -47,6 +51,7 @@
     justify-content: center;
     align-items: center;
     margin-top: 100px;
+    text-align: center;
   }
 
   .dtContainer .dtData .dtYear {
@@ -80,5 +85,9 @@
     font-size: 15px;
 
     margin-top: 200px;
+  }
+
+  .dtContainer .dtData .dtSummary .dtp {
+    padding-top: 100px;
   }
 }
