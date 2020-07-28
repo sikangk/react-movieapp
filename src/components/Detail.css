@@ -45,6 +45,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 30px;
   }
 
   .dtContainer .dtData ul {
@@ -56,6 +57,7 @@
     flex-direction: column;
     list-style: none;
     font-weight: 600;
+    margin-top: 30px;
   }
 
   .dtContainer .dtData .dtSummary {
@@ -66,5 +68,6 @@
     align-items: center;
     font-size: 15px;
     margin: 30px 150px;
+    margin-top: 30px;
   }
 }
