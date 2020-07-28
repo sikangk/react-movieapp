@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-movieapp/static/css/main.d3d6bfef.chunk.css",
-    "main.js": "/react-movieapp/static/js/main.29c80314.chunk.js",
-    "main.js.map": "/react-movieapp/static/js/main.29c80314.chunk.js.map",
+    "main.css": "/react-movieapp/static/css/main.e68c6c63.chunk.css",
+    "main.js": "/react-movieapp/static/js/main.2eb58645.chunk.js",
+    "main.js.map": "/react-movieapp/static/js/main.2eb58645.chunk.js.map",
     "runtime-main.js": "/react-movieapp/static/js/runtime-main.d99da22d.js",
     "runtime-main.js.map": "/react-movieapp/static/js/runtime-main.d99da22d.js.map",
     "static/js/2.aa4b6e3a.chunk.js": "/react-movieapp/static/js/2.aa4b6e3a.chunk.js",
     "static/js/2.aa4b6e3a.chunk.js.map": "/react-movieapp/static/js/2.aa4b6e3a.chunk.js.map",
     "index.html": "/react-movieapp/index.html",
-    "precache-manifest.a84e5232e7ffbfa1dd704e3132916d40.js": "/react-movieapp/precache-manifest.a84e5232e7ffbfa1dd704e3132916d40.js",
+    "precache-manifest.403810c29885327026854950606bd70d.js": "/react-movieapp/precache-manifest.403810c29885327026854950606bd70d.js",
     "service-worker.js": "/react-movieapp/service-worker.js",
-    "static/css/main.d3d6bfef.chunk.css.map": "/react-movieapp/static/css/main.d3d6bfef.chunk.css.map",
+    "static/css/main.e68c6c63.chunk.css.map": "/react-movieapp/static/css/main.e68c6c63.chunk.css.map",
     "static/js/2.aa4b6e3a.chunk.js.LICENSE.txt": "/react-movieapp/static/js/2.aa4b6e3a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d99da22d.js",
     "static/js/2.aa4b6e3a.chunk.js",
-    "static/css/main.d3d6bfef.chunk.css",
-    "static/js/main.29c80314.chunk.js"
+    "static/css/main.e68c6c63.chunk.css",
+    "static/js/main.2eb58645.chunk.js"
   ]
 }
